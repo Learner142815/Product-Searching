@@ -5,3 +5,6 @@ Output:Results from all the websites are stored in output.csv file (In this we h
 Procedure:It uses urlopen class from urlib.request and loads the page specified in the url ,
 Using BeautifulSoup we will traverse through html page using html parser 
 And we will fetch the results what ever we want using classname
+
+
+Note :Before running this program make sure that you have installed these libraries in your machine (BeautifulSoup,Urllib)
